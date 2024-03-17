@@ -1,4 +1,3 @@
-![1 Enable camera](https://github.com/PranavDalvi9/liveliness_app/assets/96105012/7b75cb7e-165b-478c-b071-86e6dcae5d3f)# LiveLiness App 
 
 
 # Technologies that we used :-
